@@ -3,13 +3,16 @@
 
 - 🔭 I’m currently working on home accounting app
 - 🌱 I’m currently learning Zustand, TS, Framer Motion
-- 📫 How to reach me:  https://t.me/RorrianR
-- ⚡ Fun fact: I think I've watched all the really worthwhile horror films 🤔
+- 📫 How to reach me:
+  - [Telegram](https://t.me/RorrianR)
+<!--  - [LinkedIn](https://www.linkedin.com/in/rorrian/) -->
+- ⚡ Fun fact: My favorite genre of movies is horror. And I think I've watched them all 😄
 <!-- - 💻 Read more about my projects at [rorrian.com](https://www.rorrian.com/#portfolio) -->   
 <br />
 
 <!-- https://github.com/devicons/devicon/tree/v2.16.0/icons -->
 <!-- https://cdn.worldvectorlogo.com/logos/pug.svg -->
+<!-- https://worldvectorlogo.com/ru/search/Framer+motion -->
 <h3>🛠️ Languages & Tools</h3>
 <p>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
@@ -17,12 +20,13 @@
   <a href="https://redux.js.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>  
-  <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
   <a href="https://vanilla-extract.style/" target="_blank"> <img src="https://www.svgrepo.com/show/374153/vanilla-extract.svg" alt="vanilla-extract-css" width="40" height="40"/> </a>
   <a href="https://styled-components.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" alt="styled-components" width="40" height="40"/> </a>
+  <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://pugjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://www.framer.com/motion/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" alt="framer-motion" width="40" height="40"/> </a>
   <a href="https://storybook.js.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/storybook/storybook-original.svg" alt="storybook" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a> 
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 

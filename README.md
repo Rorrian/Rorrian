@@ -51,7 +51,7 @@
 </p>
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rorrian&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rorrian&layout=donut&cache_seconds=3600)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Portfolio
 > *pending...*

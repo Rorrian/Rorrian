@@ -51,18 +51,16 @@
 </p>
 <br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rorrian&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+### Portfolio
+> *pending...*
+
+<!--
 <div align="left">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rorrian&layout=donut&card_width=300" alt="Top language used in my repos" />
 </div>
 <br />
-
-
-### Portfolio
-> *pending...*
-> 
-<!--
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rorrian&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
   <summary><b>1</b></summary>

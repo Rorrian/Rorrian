@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning Zustand, TS, Framer Motion
 - ⚡ Fun fact: My favorite genre of movies is horror. And I think I've watched them all 😄
 - 📫 How to reach me:
+  - [LinkedIn](https://www.linkedin.com/in/rorrian/)
   - [Telegram](https://t.me/RorrianR)
-<!--  - [LinkedIn](https://www.linkedin.com/in/rorrian/) --> 
 <br />
 
 <!-- https://github.com/devicons/devicon/tree/v2.16.0/icons -->

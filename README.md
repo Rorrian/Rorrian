@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Natalia</h1>
 <h3 align="center">Here I post projects for education and personal use ✨</h3>
 
-- 🔭 I’m currently working on home accounting app
+- 🔭 I’m currently working on a cookbook and home accounting app
 - 🌱 I’m currently learning Zustand, TS, Framer Motion
 - ⚡ Fun fact: My favorite genre of movies is horror. And I think I've watched them all 😄
 - 📫 How to reach me:

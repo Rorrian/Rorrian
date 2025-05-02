@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Natalia</h1>
 <h3 align="center">Here I post projects for education and personal use ✨</h3>
 
-- 🔭 I’m currently working on a cookbook and home accounting app
-- 🌱 I’m currently learning Zustand, TS, Framer Motion
-- ⚡ Fun fact: My favorite genre of movies is horror. And I think I've watched them all 😄
+- 🔭 I’m currently working on home accounting app
+- 🌱 I’m currently learning TS
+- ⚡ Fun fact: My favorite computer game is Dark souls
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/rorrian/)
   - [Telegram](https://t.me/RorrianR)

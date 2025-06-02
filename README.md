@@ -106,4 +106,4 @@
 
 ### 📫 Get in Touch
 - **LinkedIn**: [linkedin.com/in/rorrian](https://www.linkedin.com/in/rorrian/)
-- **Telegram**: [t.me/RorrianR](https://t.me/RorrianR)
+- **Telegram**: [t.me/natalia_kunegina](https://t.me/natalia_kunegina)

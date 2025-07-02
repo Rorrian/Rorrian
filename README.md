@@ -1,29 +1,29 @@
 <div align="center">
-  <h1>👋 Natalia | Frontend Developer</h1>
-  <p>Passionate about building user-friendly and scalable web applications. Focused on modern JavaScript frameworks and clean code practices. Always eager to learn and tackle new challenges!</p>
+  <h1>👋 Наталья | Frontend Developer</h1>
+  <p>Увлечена созданием удобных, масштабируемых веб-приложений. Работаю с современными JavaScript-фреймворками, пишу чистый, поддерживаемый код. Люблю учиться и решать нестандартные задачи.</p>
 </div>
 
 ---
 
-### 🚀 About Me
-- 💼 **Current Role**: Frontend Developer, working on a home accounting app to streamline personal finance management.
-- 🌱 **Learning**: Deepening expertise in **TypeScript** and exploring advanced state management with **Zustand**.
-- 🛠️ **Experience**: Developing responsive and performant web applications using **React**, **Next.js**, and modern CSS-in-JS solutions.
-- 🎮 **Fun Fact**: Dark Souls fan — I love challenges in both gaming and coding!
+### 🚀 Обо мне
+- 💼 **Текущая роль**: Frontend-разработчик. Разрабатываю **frontend приложения для домашней бухгалтерии**, и **fullstack-приложение с рецептами**
+- 🌱 **Сейчас изучаю**: Изучаю основы бэкенда - **NestJS**, **GraphQL**, **Prisma** - для расширения кругозора. во фронтенде - **Zustand** и **Next.js**
+- 🛠️ **Опыт**: Создаю отзывчивые, производительные интерфейсы с использованием React, Next.js и современных CSS-in-JS решений.
+- 🎮 **Интересный факт**: Любимая компьютерная игра - Dark souls
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Технический стек
 <!-- https://github.com/devicons/devicon/tree/v2.16.0/icons -->
 <!-- https://worldvectorlogo.com/ru/search/Framer+motion -->
 
-#### Languages
+#### Языки
 <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
 </p>
 
-#### Frameworks & Libraries
+#### Фреймворки & библиотеки
 <p>
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
   <a href="https://nextjs.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/></a>
@@ -32,7 +32,7 @@
   <a href="https://www.framer.com/motion/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" alt="Framer Motion" width="40" height="40"/></a>
 </p>
 
-#### Styling
+#### Стилизация
 <p>
   <a href="https://vanilla-extract.style/" target="_blank"><img src="https://www.svgrepo.com/show/374153/vanilla-extract.svg" alt="Vanilla Extract" width="40" height="40"/></a>
   <a href="https://styled-components.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" alt="Styled Components" width="40" height="40"/></a>
@@ -48,7 +48,7 @@
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 </p>
 
-#### Tools & Platforms
+#### Инструменты
 <p>
   <a href="https://vitejs.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="Vite" width="40" height="40"/></a>
   <a href="https://webpack.js.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" alt="Webpack" width="40" height="40"/></a>
@@ -60,7 +60,7 @@
 
 
 
-#### Databases & APIs
+#### Базы данных & APIs
 <p>
   <a href="https://azure.microsoft.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/></a>
   <a href="https://www.postgresql.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></a>
@@ -70,7 +70,7 @@
   <a href="https://supabase.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/supabase/supabase-original.svg" alt="supabase" width="40" height="40"/></a>  
 </p>
 
-#### Editors
+#### IDE
 <p>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a>
   <a href="https://www.jetbrains.com/webstorm/" target="_blank"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/webstorm/webstorm-original.svg" alt="WebStorm" width="40" height="40"/></a>
@@ -78,32 +78,32 @@
 
 ---
 
-### 📈 Stats
+### 📈 Статистика
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rorrian&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-### 💻 Featured Projects
-- **Home Accounting App** *(In Progress)*  
-  A personal finance management tool built with **React**, **Next.js**, and **PostgreSQL**. Features include budget tracking, expense categorization, and data visualization.  
-  🔗 [Repository](https://github.com/Rorrian/Accounting)
+### 💻 Проекты
+- **BuddyBudget** *(в разработке)*  
+  Приложение для домашней бухгалтерии, созданное с помощью **React**, **Next.js**, и **PostgreSQL**. Функции включают отслеживание бюджета, категоризацию расходов и визуализацию данных.  
+  🔗 [Репозиторий](https://github.com/Rorrian/Accounting)
 
-- **CookBook** *Ready(In Progress)*  
-  A cookbook that combines the coziness and atmosphere of a paper version with the convenience of an electronic one, built with **React**, **React-router-dom**, **Redux**, **Vite**, **Supabase** and **Tailwind**.  
-  🔗 [Repository](https://github.com/Rorrian/CookBook) | 🌐 [Live Demo](https://rorrian-cook-book-app.vercel.app/login)
+- **CookBook** *(в разработке)*  
+  Кулинарная книга, сочетающая уют и атмосферу бумажной версии с удобством электронной.<br/>
+  **Фронтенд**(React + React-router-dom + Redux + HeroUI + Tailwind + Vite): 🔗 [Репозиторий](https://github.com/Rorrian/CookBook)<br/>
+  **Бэкенд**(NestJS + GraphQL(Apollo Driver) + Prisma (ORM) + TypeScript + PostgreSQL): 🔗 [Репозиторий](https://github.com/Rorrian/CookBook-backend)<br/>
+  Демо: 🌐 [Посмотреть](https://rorrian-cook-book-app.vercel.app/login)
   
-- **Pros-cons-app** *(Ready)*  
-  An application for analyzing and comparing the pros and cons of various ideas, built with **React**, **Next.js**, **Zustand**, **Framer Motion**, and **i18next**.  
-  🔗 [Repository](https://github.com/Rorrian/Pros-cons-app) | 🌐 [Live Demo](https://pros-cons-app.vercel.app/)
+- **Pros-cons-app** *(готово)*  
+  Приложение для анализа и сравнения плюсов и минусов различных идей, созданное с помощью **React**, **Next.js**, **Zustand**, **Framer Motion** и **i18next**.
+  🔗 [Репозиторий](https://github.com/Rorrian/Pros-cons-app) | 🌐 [Демо](https://pros-cons-app.vercel.app/)
   
-- **Portfolio Website** *(Planned)*
-
-> *More projects coming soon! Check my repositories for updates.*
+- **Портфолио-сайт** *(запланировано)*
 
 ---
 
-### 📫 Get in Touch
+### 📫 Контакты
 - **LinkedIn**: [linkedin.com/in/rorrian](https://www.linkedin.com/in/rorrian/)
 - **Telegram**: [t.me/natalia_kunegina](https://t.me/natalia_kunegina)
